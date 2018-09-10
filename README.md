@@ -4,7 +4,7 @@ Contiki implementation of a slightly modified version of the AODV routing protoc
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.d
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -19,7 +19,7 @@ In the Makefile modify the paht to Contiki main folder
 CONTIKI = /path/to/contiki/
 ```
 
-## Running the tests
+### Running
 
 Run the cooja simulatio, load AODV_Simulation.csc and start the simulation
 
